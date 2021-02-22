@@ -12,3 +12,4 @@ Tools used:
 
 ![Note Taker - Google Chrome 2021-01-14 23-55-15](https://user-images.githubusercontent.com/71658001/104697893-4ae50080-56c5-11eb-8ef5-90ceb11dfff7.gif)
 <h1>Deployed link</h1>
+https://notetaker111111.herokuapp.com/
